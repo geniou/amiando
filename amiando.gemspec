@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Amiando::VERSION
   s.authors     = ["Jorge Dias", "Albert Llop"]
   s.email       = ["jorge@mrdias.com","mrsimo@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/xing/amiando"
   s.summary     = %q{A ruby client for the amiando REST API}
   s.description = %q{A ruby client for the amiando REST API with parallel requests in mind}
 
